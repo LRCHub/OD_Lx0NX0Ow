@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はじまりへと続く場所",
+  "base_artist": "ハナウタ(第五寮)",
+  "createdAt": "2026-03-23T13:16:59.549412Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまりへと続く場所",
+      "artist": "ハナウタ(第五寮)",
+      "has_synced": false,
+      "path": "select/pl_01_はじまりへと続く場所_ハナウタ(第五寮).txt"
+    }
+  ]
+}
